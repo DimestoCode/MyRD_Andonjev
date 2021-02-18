@@ -1,0 +1,33 @@
+dc25a33 (HEAD -> master, develop) HEAD@{0}: merge develop: Fast-forward
+78c21a5 HEAD@{1}: checkout: moving from develop to master
+dc25a33 (HEAD -> master, develop) HEAD@{2}: commit: final commit
+29eca9c HEAD@{3}: rebase (continue) (finish): returning to refs/heads/develop
+29eca9c HEAD@{4}: rebase (continue): added images to second index file
+f56657b HEAD@{5}: rebase (pick): added images
+3b44b1b (styles2) HEAD@{6}: rebase (start): checkout styles2
+0427d22 (images2) HEAD@{7}: rebase (finish): returning to refs/heads/develop
+0427d22 (images2) HEAD@{8}: rebase (start): checkout images2
+68c834d HEAD@{9}: checkout: moving from styles2 to develop
+3b44b1b (styles2) HEAD@{10}: commit: added styles to index2 file
+fc6d4a3 HEAD@{11}: checkout: moving from develop to styles2
+68c834d HEAD@{12}: checkout: moving from styles2 to develop
+fc6d4a3 HEAD@{13}: commit: added styles to styles2.css
+68c834d HEAD@{14}: checkout: moving from develop to styles2
+68c834d HEAD@{15}: checkout: moving from images2 to develop
+0427d22 (images2) HEAD@{16}: commit: added images to second index file
+cdc8b36 HEAD@{17}: commit: added images
+68c834d HEAD@{18}: checkout: moving from develop to images2
+68c834d HEAD@{19}: commit: added second index file
+78c21a5 HEAD@{20}: checkout: moving from master to develop
+78c21a5 HEAD@{21}: checkout: moving from develop to master
+78c21a5 HEAD@{22}: merge styles: Merge made by the 'recursive' strategy.
+e4c780f (images) HEAD@{23}: merge images: Fast-forward
+290c046 HEAD@{24}: checkout: moving from styles to develop
+3d56ba7 (styles) HEAD@{25}: commit: added styles to index file
+fcd3371 HEAD@{26}: commit: added styles
+290c046 HEAD@{27}: checkout: moving from develop to styles
+290c046 HEAD@{28}: checkout: moving from images to develop
+e4c780f (images) HEAD@{29}: commit: added images
+290c046 HEAD@{30}: checkout: moving from develop to images
+290c046 HEAD@{31}: commit (initial): added index file
+
